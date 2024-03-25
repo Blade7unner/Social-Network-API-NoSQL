@@ -1,3 +1,5 @@
+// thought-routes.js
+
 const router = require('express').Router();
 const {
   getAllThoughts,
@@ -7,7 +9,7 @@ const {
   deleteThought,
   addReaction,
   deleteReaction
-} = require('../controllers/thought-controller');
+} = require('../controllers/thought-controller'); // Adjusted path
 
 // Define routes
 router.route('/')

@@ -1,3 +1,5 @@
+// user-routes.js
+
 const router = require('express').Router();
 const {
   getAllUsers,
@@ -7,7 +9,7 @@ const {
   deleteUser,
   addFriend,
   deleteFriend
-} = require('../controllers/user-controller');
+} = require('../controllers/user-controller'); // Adjusted path
 
 // Define routes
 router.route('/')
