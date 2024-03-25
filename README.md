@@ -51,7 +51,7 @@ Customize and extend the project as needed for your specific social networking a
 
 ## Walkthrough Video
 
-API Functionality Walkthrough Video: View Video
+API Functionality Walkthrough Video: 
 
 ## Technologies Used
 Node.js,
