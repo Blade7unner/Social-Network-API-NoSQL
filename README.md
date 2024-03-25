@@ -54,10 +54,9 @@ Customize and extend the project as needed for your specific social networking a
 API Functionality Walkthrough Video: View Video
 
 ## Technologies Used
-Node.js
-Express.js
+Node.js,
+Express.js,
 MongoDB
-Mongoose
 
 
 
