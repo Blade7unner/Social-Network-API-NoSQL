@@ -10,8 +10,6 @@ This project is an API for a social network web application where users can shar
 - [Usage](#usage)
 - [Walkthrough Video](#walkthrough-video)
 - [Technologies Used](#technologies-used)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
