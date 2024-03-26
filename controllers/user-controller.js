@@ -1,8 +1,4 @@
-// user-controller.js
-
 const { User } = require('../models/user'); // Adjusted path
-
-
 
 const userController = {
   // Get all users
