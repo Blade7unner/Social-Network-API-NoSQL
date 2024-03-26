@@ -18,7 +18,7 @@ This project is an API for a social network web application where users can shar
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Social-Network-API-NoSQL.git
+   git clone https://github.com/Blade7unner/Social-Network-API-NoSQL.git
 
 ## Navigate to the project directory: 
 

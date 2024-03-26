@@ -1,5 +1,3 @@
-// user-routes.js
-
 const router = require('express').Router();
 const {
   getAllUsers,
@@ -9,9 +7,9 @@ const {
   deleteUser,
   addFriend,
   deleteFriend
-} = require('../controllers/user-controller'); // Adjusted path
+} = require('../controllers/user-controller'); 
 
-// Define routes
+
 router.route('/')
   .get(getAllUsers)
   .post(createUser);
